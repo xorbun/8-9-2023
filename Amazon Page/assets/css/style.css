@@ -1,1 +1,78 @@
-/* Your styles here */
+body
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+header
+{
+    background-color: rgb(36, 47, 61);
+    color: white;
+    
+}
+
+footer
+{
+    text-align: center;
+    background-color:rgb(36, 47, 61); 
+    padding: 4em;
+}
+ul
+{
+    list-style: none;
+    overflow: hidden;
+    background-color: rgb(50, 70, 88);
+}
+li
+{
+    float: left;
+    padding: 0.5em;
+}
+.first
+{
+    text-align: center;
+    background-color: rgb(228, 110, 44);
+    padding: 0.8em;
+    margin: 2em;
+}
+.second
+{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding: 3em;
+    background-image: url(../images/bg-image.png);
+    background-size: auto;
+    margin: 2em;
+}
+
+.one
+{
+    border-radius: 23%;
+    padding: 3em;
+}
+
+h3
+{
+    font-weight: bolder;
+    margin-top: 1em;
+    margin-left: 3em;
+}
+.two
+{
+    margin: 2em;
+    
+}
+.final
+{
+    text-align: center;
+    margin: 1em;
+}
+.backlog
+{
+    text-align: center;
+    background-color:rgb(50, 70, 88);
+    color: white;
+    padding: 1em;
+}
