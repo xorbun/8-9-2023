@@ -33,6 +33,7 @@ li
 {
     text-align: center;
     background-color: rgb(228, 110, 44);
+    color: white;
     padding: 0.8em;
     margin: 2em;
 }
@@ -93,4 +94,5 @@ mark
     background-color: white;
     margin: 2em;
 }
+
 
