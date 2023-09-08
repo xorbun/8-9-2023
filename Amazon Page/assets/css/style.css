@@ -9,7 +9,6 @@ header
 {
     background-color: rgb(36, 47, 61);
     color: white;
-    
 }
 
 footer
@@ -28,6 +27,7 @@ li
 {
     float: left;
     padding: 0.5em;
+    padding-left: 1em;
 }
 .first
 {
@@ -52,8 +52,9 @@ li
 {
     border-radius: 6%;
     margin-left: 6em;
-   margin-right: 1em;
-   margin-bottom: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    object-fit: cover;
     box-shadow: 2px 2px 5px gray;
 }
 
@@ -94,5 +95,6 @@ mark
     background-color: white;
     margin: 2em;
 }
+
 
 
