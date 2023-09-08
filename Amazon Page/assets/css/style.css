@@ -2,7 +2,7 @@ body
 {
     margin-left: auto;
     margin-right: auto;
-    background-color: white;
+    background-color: rgb(234, 237, 238);
     font-family: 'Montserrat', sans-serif;
 }
 header
@@ -49,8 +49,11 @@ li
 
 .one
 {
-    border-radius: 23%;
-    padding: 3em;
+    border-radius: 6%;
+    margin-left: 6em;
+   margin-right: 1em;
+   margin-bottom: 1em;
+    box-shadow: 2px 2px 5px gray;
 }
 
 h3
@@ -58,10 +61,12 @@ h3
     font-weight: bolder;
     margin-top: 1em;
     margin-left: 3em;
+    padding-bottom: 2em;
 }
 .two
 {
-    margin: 2em;
+    margin: 0.5em;
+    display: block;
     
 }
 .final
@@ -73,6 +78,19 @@ h3
 {
     text-align: center;
     background-color:rgb(50, 70, 88);
-    color: white;
     padding: 1em;
 }
+mark
+{
+    background-color: white;
+    color: rgb(48, 93, 110);
+}
+.products
+{
+    border-width:1px;
+    border-style:solid;
+    border-color:white;
+    background-color: white;
+    margin: 2em;
+}
+
