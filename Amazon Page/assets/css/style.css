@@ -10,7 +10,10 @@ header
     background-color: rgb(36, 47, 61);
     color: white;
 }
-
+.logo
+{
+    margin-left: 1em;
+}
 footer
 {
     text-align: center;
